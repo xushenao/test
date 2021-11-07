@@ -3,4 +3,5 @@ public static void main(String[] args){
       System.out.println("xushenao");
   }
   System.out.println("end loop");
+  System.out.println();
 }
